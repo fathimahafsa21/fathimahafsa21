@@ -142,3 +142,47 @@ Currently developing knowledge and practical skills in:
 🎨 UI/UX Design
 🔧 Software Development
 🐙 Git & GitHub
+
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fathimahafsa21&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fathimahafsa21&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
+---
+
+## 🎓 Education
+
+### 🎓 BSc in Information Technology
+
+**IT Undergraduate**
+
+Currently developing knowledge and practical skills in:
+
+- Software Development
+- Web Development
+- Database Management
+- System Analysis and Design
+- UI/UX Design
+- Software Engineering
+
+### 🎓 BSc in Information Technology
+
+**University / Institute Name**  
+202X – Present
+
+
+---
+
+## 🏆 Certifications & Achievements
+
+🌱 Currently working towards building my technical knowledge
+and gaining professional certifications.
