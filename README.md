@@ -222,14 +222,15 @@ A Java-based application developed to manage library-related information and act
 <tr>
 <td>
 
-💼 Employee Payroll Management System
+### 💼 Employee Payroll Management System
 
 A console-based application developed to manage employee records and payroll operations, including salary calculations, salary slips, and payroll reports.
 
-Technology: Java
-Project Type: Group Project
+**Technology:** Java
+**Project Type:** Group Project
 
-🔗 View Project
+🔗 [View Project](https://github.com/fathimahafsa21/Employee-Payroll-Management-System)
+
 
 </td> </tr>
 
@@ -239,7 +240,7 @@ Project Type: Group Project
 
 A personal portfolio website created to showcase my education, skills, projects, and professional background.
 
-**Technologies:** `HTML` `CSS``JS`
+**Technologies:** `HTML` `CSS` `JS`
 
 🌐 [Visit Portfolio](https://fathimahafsa21.github.io/Portfolio/)
 
