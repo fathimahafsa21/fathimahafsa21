@@ -246,6 +246,21 @@ A personal portfolio website created to showcase my education, skills, projects,
 
 </td>
 </tr>
+
+<tr>
+<td>
+
+### 🧮 Simple Calculator
+
+A Java Swing GUI calculator developed to perform basic mathematical operations with input validation and error handling.
+
+**Technology:** `Java` `Java Swing`  
+**Area:** `Manual Testing`
+
+🔗 [View Project](https://github.com/fathimahafsa21/Simple-Calculator)
+
+</td>
+</tr>
 </table>
 
 ---
