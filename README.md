@@ -12,10 +12,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/BSc%20IT-Undergraduate-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HND%20IT-Graduate-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IT-Tutor-00BFA6?style=for-the-badge"/>
-
 </div>
 
 ---
