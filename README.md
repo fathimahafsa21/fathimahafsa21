@@ -226,7 +226,7 @@ A Java-based application developed to manage library-related information and act
 
 A console-based application developed to manage employee records and payroll operations, including salary calculations, salary slips, and payroll reports.
 
-**Technology:** Java
+**Technology:** Java <br>
 **Project Type:** Group Project
 
 🔗 [View Project](https://github.com/fathimahafsa21/Employee-Payroll-Management-System)
