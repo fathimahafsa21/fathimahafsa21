@@ -226,7 +226,7 @@ A Java-based application developed to manage library-related information and act
 
 A personal portfolio website created to showcase my education, skills, projects, and professional background.
 
-**Technologies:** `HTML` `CSS`
+**Technologies:** `HTML` `CSS``JS`
 
 🌐 [Visit Portfolio](https://fathimahafsa21.github.io/Portfolio/)
 
@@ -260,7 +260,7 @@ A personal portfolio website created to showcase my education, skills, projects,
 <img src="https://img.shields.io/badge/GitHub-fathimahafsa21-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/fathima-hafsa)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
