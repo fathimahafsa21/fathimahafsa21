@@ -26,7 +26,7 @@
 <tr>
 <td>
 
-I am a **BSc in Information Technology undergraduate** and **HND in Information Technology graduate** with a strong interest in software development and web technologies.
+I am a **BSc in Information Technology undergraduat** and **HND in Information Technology graduate** with a strong interest in software development and web technologies.
 
 I enjoy learning new technologies, developing practical applications, and working on projects that provide real-world solutions. I also have an interest in **IT tutoring** and enjoy sharing my knowledge with others.
 
@@ -68,7 +68,7 @@ I am passionate about continuously improving my technical skills and gaining exp
 
 ### 📘 Diploma in English
 
-**Rajarata University of Sri Lanka**
+**Completed – Rajarata University of Sri Lanka**
 
 </td>
 </tr>
