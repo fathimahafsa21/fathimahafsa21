@@ -200,7 +200,7 @@ An online clothing and fashion website designed to provide an engaging shopping 
 **Platform:** `Wix`  
 **Area:** `Web Design`
 
-🔗 [View Project](https://github.com/fathimahafsa21/E-commerce-website-clothing-fashion)
+🔗 [View Project](https://hafsahndeen.wixsite.com/the-sewing-soul-fash)
 
 </td>
 </tr>
